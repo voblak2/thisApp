@@ -6,10 +6,15 @@ namespace thisApp
     {
         static void Main(string[] args)
         {
-            string greeting;
-            greeting = "Hello World!";
 
-            Console.WriteLine(greeting);
+            int sum;
+            sum = 2 + 2;
+
+            int newSum;
+            newSum = sum + 10;
+
+            Console.WriteLine(sum);
+            Console.WriteLine(newSum);
 
         }
     }
