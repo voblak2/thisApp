@@ -1,0 +1,12 @@
+/Users/vinceoblak/Desktop/ProgrammingC#/thisApp/bin/Debug/netcoreapp3.1/thisApp.deps.json
+/Users/vinceoblak/Desktop/ProgrammingC#/thisApp/bin/Debug/netcoreapp3.1/thisApp.runtimeconfig.json
+/Users/vinceoblak/Desktop/ProgrammingC#/thisApp/bin/Debug/netcoreapp3.1/thisApp.runtimeconfig.dev.json
+/Users/vinceoblak/Desktop/ProgrammingC#/thisApp/bin/Debug/netcoreapp3.1/thisApp.dll
+/Users/vinceoblak/Desktop/ProgrammingC#/thisApp/bin/Debug/netcoreapp3.1/thisApp.pdb
+/Users/vinceoblak/Desktop/ProgrammingC#/thisApp/obj/Debug/netcoreapp3.1/thisApp.csprojAssemblyReference.cache
+/Users/vinceoblak/Desktop/ProgrammingC#/thisApp/obj/Debug/netcoreapp3.1/thisApp.AssemblyInfoInputs.cache
+/Users/vinceoblak/Desktop/ProgrammingC#/thisApp/obj/Debug/netcoreapp3.1/thisApp.AssemblyInfo.cs
+/Users/vinceoblak/Desktop/ProgrammingC#/thisApp/obj/Debug/netcoreapp3.1/thisApp.csproj.CoreCompileInputs.cache
+/Users/vinceoblak/Desktop/ProgrammingC#/thisApp/obj/Debug/netcoreapp3.1/thisApp.dll
+/Users/vinceoblak/Desktop/ProgrammingC#/thisApp/obj/Debug/netcoreapp3.1/thisApp.pdb
+/Users/vinceoblak/Desktop/ProgrammingC#/thisApp/obj/Debug/netcoreapp3.1/thisApp.genruntimeconfig.cache
