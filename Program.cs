@@ -7,8 +7,8 @@ namespace thisApp
         static void Main(string[] args)
         {
 
-            bool isOpen = false;
-                if (isOpen == true) {
+            var isOpen = false;
+                if (isOpen == false) {
                     Console.WriteLine("Yay!");
                 } else {
                     Console.WriteLine("Not Yay");
